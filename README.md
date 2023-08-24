@@ -9,8 +9,4 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=metheok&theme=midnight-purple&hide_border=true)](https://git.io/streak-stats)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=metheok&count_private=true&theme=midnight-purple&layout=compact" alt="Usaid's Language Stats">
-
-[![GitHub Most Used Language](
-https://github-readme-stats.vercel.app/api/top-langs/?username=metheok&count_private=true&theme=nightowl&layout=compact
-)
+[![GitHub Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=metheok&count_private=true&theme=nightowl&layout=compact&hide_border=true)
